@@ -5,7 +5,7 @@
         "nombre": "Guitarra Fender Telecaster",
         "precio": 3000,
         "descripcion": "Fender Telecaster '72 Custom Daphne Blue",
-        "imagen": "images/tele72v2.jpeg",
+        "imagen": "images/fendertele72.png",
         "categoria": "guitarras",
         "destacado": true
     },
@@ -14,115 +14,16 @@
         "nombre": "Bajo Hofner Violin",
         "precio": 2900,
         "descripcion": "Hofner 500/1 Violin Bass Sunburst",
-        "imagen": "images/violinv2.jpeg",
+        "imagen": "images/hofnerviolin.png",
         "categoria": "bajos",
         "destacado": true
-    },
+    }, 
     {
-        "id": 9,
-        "nombre": "Batería Ludwig",
-        "precio": 8000,
-        "descripcion": "Ludwig Super Classic Oyster Black Pearl",
-        "imagen": "images/ludwigv2.jpg",
-        "categoria": "baterias",
-        "destacado": true
-    },
-    {
-        "id": 2,
-        "nombre": "Amplificador Orange",
-        "precio": 1500,
-        "descripcion": "Orange Rockerverb MKIII 100W",
-        "imagen": "images/orangev2.jpeg",
-        "categoria": "amplificadores",
-        "destacado": true
-    },
-    {
-        "id": 1,
-        "nombre": "Amplificador Marshall",
-        "precio": 1300,
-        "descripcion": "Marshall JVM410C 100W",
-        "imagen": "images/amarshallv2.jpeg",
-        "categoria": "amplificadores",
-        "destacado": false
-    },
-    {
-        "id": 3,
-        "nombre": "Amplificador Fender",
-        "precio": 1300,
-        "descripcion": "Fender'65 Twin Reverb 85W",
-        "imagen": "images/afenderv2.jpeg",
-        "categoria": "amplificadores",
-        "destacado": false
-    },
-    {
-        "id": 4,
-        "nombre": "Amplificador Vox",
-        "precio": 1000,
-        "descripcion": "Vox AC80C2 80W",
-        "imagen": "images/vox.jpeg",
-        "categoria": "amplificadores",
-        "destacado": false
-    },
-    {
-        "id": 8,
-        "nombre": "Bajo Rickenbacker",
-        "precio": 3000,
-        "descripcion": "Rickenbacker 4001S Mapleglow",
-        "imagen": "images/rickenv2.jpeg",
-        "categoria": "bajos",
-        "destacado": false
-    },
-    {
-        "id": 7,
-        "nombre": "Bajo Gibson",
+        "id": 15,
+        "nombre": "Guitarra Fender Acústica Paramount",
         "precio": 2500,
-        "descripcion": "Gibson G3 Ebony",
-        "imagen": "images/gibg3.jpeg",
-        "categoria": "bajos",
-        "destacado": false
-    },
-    {
-        "id": 6,
-        "nombre": "Bajo Fender Precision",
-        "precio": 1800,
-        "descripcion": "Fender Precision Bass Sunburst",
-        "imagen": "images/fprec.jpeg",
-        "categoria": "bajos",
-        "destacado": false
-    },
-    {
-        "id": 10,
-        "nombre": "Batería Pearl",
-        "precio": 9000,
-        "descripcion": "Pearl Masterworks",
-        "imagen": "images/pearpure.jpg",
-        "categoria": "baterias",
-        "destacado": false
-    },
-    {
-        "id": 11,
-        "nombre": "Batería Tama",
-        "precio": 5000,
-        "descripcion": "Tama Starclassic",
-        "imagen": "images/tama.jpeg",
-        "categoria": "baterias",
-        "destacado": false
-    },
-    {
-        "id": 12,
-        "nombre": "Batería Pearl Vintage",
-        "precio": 4000,
-        "descripcion": "Pearl Vintage Lolinha",
-        "imagen": "images/pearlv2.jpeg",
-        "categoria": "baterias",
-        "destacado": false
-    },
-    {
-        "id": 14,
-        "nombre": "Guitarra Fender Stratocaster",
-        "precio": 2800,
-        "descripcion": "Fender Classic Player'60s Stratocaster Sunburst",
-        "imagen": "images/ftratov2.jpeg",
+        "descripcion": "Fender Paramount PM-1 Deluxe Dreadnought",
+        "imagen": "images/fenderacus.png",
         "categoria": "guitarras",
         "destacado": false
     },
@@ -131,17 +32,116 @@
         "nombre": "Guitarra Gibson Firebird",
         "precio": 3200,
         "descripcion": "Gibson Firebird Non-Reverse Pelham Blue",
-        "imagen": "images/gfirev2.jpeg",
+        "imagen": "images/gibsonfire.png",
         "categoria": "guitarras",
+        "destacado": true
+    },    
+    {
+        "id": 6,
+        "nombre": "Bajo Fender Precision",
+        "precio": 1800,
+        "descripcion": "Fender Precision Bass Sunburst",
+        "imagen": "images/fenderpreci.jpg",
+        "categoria": "bajos",
+        "destacado": true
+    }, 
+    {
+        "id": 2,
+        "nombre": "Amplificador Orange",
+        "precio": 1500,
+        "descripcion": "Orange Rockerverb MKIII 100W",
+        "imagen": "images/orange.jpg",
+        "categoria": "amplificadores",
+        "destacado": true
+    }, 
+    {
+        "id": 4,
+        "nombre": "Amplificador Vox",
+        "precio": 1000,
+        "descripcion": "Vox AC80C2 80W",
+        "imagen": "images/vox.jpg",
+        "categoria": "amplificadores",
+        "destacado": false
+    }, 
+    {
+        "id": 10,
+        "nombre": "Batería Pearl",
+        "precio": 9000,
+        "descripcion": "Pearl Masterworks",
+        "imagen": "images/pearl.jpg",
+        "categoria": "baterias",
         "destacado": false
     },
     {
-        "id": 15,
-        "nombre": "Guitarra Fender Acústica Paramount",
-        "precio": 2500,
-        "descripcion": "Fender Paramount PM-1 Deluxe Dreadnought",
-        "imagen": "images/fparamountv2.jpeg",
-        "categoria": "guitarras",
+        "id": 9,
+        "nombre": "Batería Ludwig",
+        "precio": 8000,
+        "descripcion": "Ludwig Super Classic Oyster Black Pearl",
+        "imagen": "images/ludwig.jpg",
+        "categoria": "baterias",
+        "destacado": true
+    },
+    {
+        "id": 11,
+        "nombre": "Batería Tama",
+        "precio": 5000,
+        "descripcion": "Tama Starclassic",
+        "imagen": "images/tama.jpg",
+        "categoria": "baterias",
+        "destacado": true
+    },    
+    {
+        "id": 1,
+        "nombre": "Amplificador Marshall",
+        "precio": 1300,
+        "descripcion": "Marshall JVM410C 100W",
+        "imagen": "images/marshall.jpg",
+        "categoria": "amplificadores",
+        "destacado": true
+    },    
+    {
+        "id": 8,
+        "nombre": "Bajo Rickenbacker",
+        "precio": 3000,
+        "descripcion": "Rickenbacker 4001S Mapleglow",
+        "imagen": "images/ricken.jpg",
+        "categoria": "bajos",
         "destacado": false
+    },   
+    {
+        "id": 7,
+        "nombre": "Bajo Gibson SG",
+        "precio": 2500,
+        "descripcion": "Gibson SG Ebony",
+        "imagen": "images/gibsonsg.jpg",
+        "categoria": "bajos",
+        "destacado": true
+    },
+    {
+        "id": 3,
+        "nombre": "Amplificador Fender",
+        "precio": 1300,
+        "descripcion": "Fender'65 Twin Reverb 85W",
+        "imagen": "images/fender.jpg",
+        "categoria": "amplificadores",
+        "destacado": true
+    },
+    {
+        "id": 14,
+        "nombre": "Guitarra Fender Stratocaster",
+        "precio": 2800,
+        "descripcion": "Fender Classic Player'60s Stratocaster Sunburst",
+        "imagen": "images/fenderstrato.jpg",
+        "categoria": "guitarras",
+        "destacado": true
+    },
+    {
+        "id": 12,
+        "nombre": "Batería Pearl Vintage",
+        "precio": 4000,
+        "descripcion": "Pearl Vintage Lolinha Brown",
+        "imagen": "images/pearlvintage.jpg",
+        "categoria": "baterias",
+        "destacado": true
     }
 ]
